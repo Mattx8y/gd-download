@@ -1,0 +1,26 @@
+{
+  "name": "gd-download",
+  "version": "1.0.0",
+  "description": "Download/copy any Geometry Dash level",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mattx8y/gd-download.git"
+  },
+  "keywords": [
+    "geometrydash",
+    "gd",
+    "download",
+    "copy",
+    "javascript"
+  ],
+  "author": "Mattx8y <wrscr.surpertop@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mattx8y/gd-download/issues"
+  },
+  "homepage": "https://github.com/Mattx8y/gd-download#readme"
+}
