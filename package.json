@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Mattx8y/gd-download/issues"
   },
-  "homepage": "https://github.com/Mattx8y/gd-download#readme"
+  "homepage": "https://github.com/Mattx8y/gd-download#readme",
+  "dependencies": {
+    "pako": "^1.0.11"
+  }
 }
